@@ -1,0 +1,16 @@
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\bin\Debug\net5.0\GPACulcator.exe
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\bin\Debug\net5.0\GPACulcator.deps.json
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\bin\Debug\net5.0\GPACulcator.runtimeconfig.json
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\bin\Debug\net5.0\GPACulcator.runtimeconfig.dev.json
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\bin\Debug\net5.0\GPACulcator.dll
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\bin\Debug\net5.0\GPACulcator.pdb
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\obj\Debug\net5.0\GPACulcator.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\obj\Debug\net5.0\GPACulcator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\obj\Debug\net5.0\GPACulcator.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\obj\Debug\net5.0\GPACulcator.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\obj\Debug\net5.0\GPACulcator.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\obj\Debug\net5.0\GPACulcator.dll
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\obj\Debug\net5.0\refint\GPACulcator.dll
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\obj\Debug\net5.0\GPACulcator.pdb
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\obj\Debug\net5.0\GPACulcator.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\GPACulcator\GPACulcator\obj\Debug\net5.0\ref\GPACulcator.dll
