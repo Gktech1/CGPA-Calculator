@@ -11,7 +11,7 @@ namespace GPACalculator
             Console.WriteLine("\n\n\n\n");
             Console.WriteLine("\t\t|---------------|---------------|-------------|--------------|----------------|----------------------|");
             Console.WriteLine("\t\t|               |               |             |              |                |                      |");
-            Console.WriteLine("\t\t|  COURSE CODE  |  COURSE UNIT  |    SCORE    |    GRADE     |   GRADE UNIT   |    Quality point     |");
+            Console.WriteLine("\t\t|  COURSE CODE  |  COURSE UNIT  |    SCORE    |    GRADE     |   GRADE UNIT   |    QUALITY POINT     |");
             Console.WriteLine("\t\t|               |               |             |              |                |                      |");
             Console.WriteLine("\t\t|---------------|---------------|-------------|--------------|----------------|----------------------|");
             foreach (KeyValuePair<string, Courses> Entry in student.CoursesDictionary)

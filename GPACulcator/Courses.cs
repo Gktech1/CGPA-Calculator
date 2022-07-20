@@ -14,7 +14,7 @@ namespace GPACalculator
         public string Score { get; set; }
         public string Grade { get; set; }
         public string GradeUnit { get; set; }
-        public string QualityPoint { get; set; }
+        public int QualityPoint { get; set; }
         public string Remark { get; set; }
 
         public void Calculate(string CousreCode, string CourseUnit, string Score)
@@ -67,7 +67,7 @@ namespace GPACalculator
 
             int gradeUnit = Convert.ToInt32(GradeUnit);
             int courseUnit = Convert.ToInt32(CourseUnit);
-            QualityPoint = Convert.ToString(courseUnit * gradeUnit);
+            QualityPoint = (courseUnit * gradeUnit);
         }
 
 
